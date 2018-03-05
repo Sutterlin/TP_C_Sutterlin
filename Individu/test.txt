@@ -1,0 +1,35 @@
+Numéro secu: 27500
+Nom: dorffer
+Le prénom: maxime
+La date de naissance: 8/8/1994
+La première profession: stagiaire;
+La nouvelle profession: chomeur
+;
+Numéro secu: 27500
+Nom: dorffer
+Le prénom: maxime
+La date de naissance: 8/8/1994
+La première profession: stagiaire;
+La nouvelle profession: chomeur
+;
+Numéro secu: 27500
+Nom: dorffer
+Le prénom: maxime
+La date de naissance: 8/8/1994
+La première profession: stagiaire;
+La nouvelle profession: chomeur
+;
+Numéro secu: 27500
+Nom: dorffer
+Le prénom: maxime
+La date de naissance: 8/8/1994
+La première profession: stagiaire;
+La nouvelle profession: chomeur
+;
+Numéro secu: 27000
+Nom: sutterlin
+Le prénom: sebastien
+La date de naissance: 27/9/1995
+La première profession: etudiant;
+La nouvelle profession: chomeur
+;
